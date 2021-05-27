@@ -205,10 +205,10 @@ const users = [
 const str = ' il ilil il qar ';
 // const res = str.charAt(1);
 // console.log(res)
-// const res = str.toUpperCase();
-// console.log(res);
+const res = str.toUpperCase();
+console.log(res);
 // const res = str.toLocaleUpperCase();
-console.log(str.trimEnd());
+//console.log(str.trimEnd());
 
 // ECOURT-123: Added a new feaature
 
